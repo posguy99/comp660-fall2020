@@ -19,7 +19,7 @@ while choice == 'y':
         monthly_interest_amount = future_value * monthly_interest_rate
         future_value += monthly_interest_amount
 
-    print('Future value:\t\t\t' + str(round(future_value,2)))
+    print('Future value:\t\t\t' + str(round(future_value, 2)))
     # chose to continue at the bottom of the loop...
     choice = input('Continue? (y or n)\t\t')
 print('Thank you for using the Future Value Calculator')
