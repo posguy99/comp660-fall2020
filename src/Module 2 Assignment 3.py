@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-kg_to_lb   = 2.20462
-earth_grav = 9.807 # m/s^2
-moon_grav  = 1.62 # m/s^2
+kg_to_lb = 2.20462
+earth_grav = 9.807  # m/s^2
+moon_grav = 1.62   # m/s^2
 
 mass = float(input("Please enter the mass in lb that you would like to convert to kg: "))
 kg = mass / kg_to_lb
