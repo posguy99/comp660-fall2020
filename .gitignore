@@ -132,3 +132,4 @@ dmypy.json
 # local stuff
 bin/
 video/
+.vscode
