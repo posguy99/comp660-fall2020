@@ -12,8 +12,8 @@ def factorial(num):
 
 def factorial_r(num):
     ''' recursive computation of factorial '''
-    if num == 1:
-        return num
+    if num == 0:
+        return 1
     else:
         return num * factorial_r(num - 1)
 
