@@ -10,7 +10,6 @@ def factorial(num):
     return result
 
 
-
 def factorial_r(num):
     ''' recursive computation of factorial '''
     if num == 1:
