@@ -25,7 +25,7 @@ def main():
     print()
 
     print('5/8b - 1.85 APR compounded monthly, in years, lambda')
-    print('\ttime (y): ', doubling_time_yrs((apr/12)/100))
+    print('\ttime (y): ', doubling_time_yrs((apr/12)/100)/12)
 
     print()
 
