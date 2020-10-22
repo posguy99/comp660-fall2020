@@ -25,5 +25,5 @@ softTabs        = true
 softWrap        = true
 tabSize         = 4
 # PEP8 says 79, man that's a PITA on a wide screen
-# wrapColumn      = 79
-wrapColumn      = "Use Window Frame"
+wrapColumn      = 79
+# wrapColumn      = "Use Window Frame"
